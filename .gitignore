@@ -1,2 +1,3 @@
 models/*
 output*/*
+!output*/*/best_model*
