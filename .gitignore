@@ -1,3 +1,5 @@
 models/*
 output*/*
 !output*/*/best_model*
+*.kvmodel
+*.npy
